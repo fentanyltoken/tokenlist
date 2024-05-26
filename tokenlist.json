@@ -12,11 +12,11 @@
   "tokens": [
     {
       "chainId": 8453,
-      "address": "0xB98d4C97425d9908E66E53A6fDf673ACcA0BE986",
-      "name": "Arcblock",
-      "symbol": "ABT",
+      "address": "",
+      "name": "Fentanyl",
+      "symbol": "FENTANYL",
       "decimals": 18,
-      "logoURI": "https://assets.coingecko.com/coins/images/2341/thumb/arcblock.png?1547036543"
+      "logoURI": "https://raw.githubusercontent.com/fentanyltoken/frontend-memetoken-next/main/public/images/logo.png"
     },
     {
       "name": "Wrapped Ether",
